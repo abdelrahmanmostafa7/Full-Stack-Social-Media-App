@@ -71,9 +71,7 @@ const FriendRequests = () => {
           />
         </div>
       </div>
-    </div>
-
-    
+    </div>    
   );
 };
 
