@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const AddPost = () => {
   return (
-    <div className="p-4 flex justify-between bg-white rounded-lg shadow-md text-sm">
+    <div className="p-4 flex justify-between gap-4 bg-white rounded-lg shadow-md text-sm">
       {/* Avatar  */}
       <Image
         src="https://images.unsplash.com/photo-1743890290573-257c245b8881?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D"
