@@ -57,7 +57,7 @@ const UserInfoCard = (userId: { userId: string }) => {
             <span className="text-sm">Joined on 1 Jan 2023</span>
           </div>
         </div>
-        <button className="bg-blue-500 text-white rounded-md font-medium text-lg p-2">
+        <button className="bg-blue-600 text-white rounded-md font-medium text-lg p-2">
           Following
         </button>
         <button className="bg-red-600 text-white rounded-md font-medium text-lg p-2">
